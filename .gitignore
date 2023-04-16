@@ -1,2 +1,4 @@
 
 .env
+data/cskb-waterloo-06-21-with-bert-scores.jsonl
+data/GenericsKB-Best.tsv
