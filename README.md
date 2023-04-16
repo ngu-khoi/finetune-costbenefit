@@ -232,9 +232,22 @@ The results of the experiment can be found in the `results` folder.
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Complete training / synthesis of `10k_ada` and `100k_ada` models
-- [ ] Fine-tune `10k_ada` and `100k_ada` models
-- [ ] Complete experimentation on the models
+- [x] Complete training / synthesis of `ada` models
+- [x] Fine-tune `ada` model
+- [x] Semantically score `ada` model
+- [ ] Analyze performance of `ada` model
+- [x] Complete training / synthesis of `1k_ada` models
+- [x] Fine-tune `1k_ada` model
+- [ ] Semantically score `1k_ada` model
+- [ ] Analyze performance of `1k_ada` model
+- [ ] Complete training / synthesis of `10k_ada` models
+- [ ] Fine-tune `10k_ada` model
+- [ ] Semantically score `10k_ada` model
+- [ ] Analyze performance of `10k_ada` model
+- [ ] Complete training / synthesis of `100k_ada` models
+- [ ] Fine-tune `100k_ada` model
+- [ ] Semantically score `100k_ada` model
+- [ ] Analyze performance of `100k_ada` model
 - [ ] Do more analysis on the results (e.g. compare performance between fine-tuned models, evaluate cost and time, etc.)
 - [ ] Address technical debt in the project
 - [ ] Improve documentation
