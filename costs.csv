@@ -1,4 +1,4 @@
-cost_type, ada, 1k_ada, 10k_ada, 100k_ada
-52k_instruction, 7, 7, 7, 7
-synthetic_training, 0, 0.35, 1.98, 0
-fine_tuning, 0, 0.08, 0.80, 0
+cost_type,ada,1k_ada,10k_ada,100k_ada
+52k_instruction, 7,7,7,7
+synthetic_training, 0,0.35,1.98,0
+fine_tuning,0,0.08,0.80,0
